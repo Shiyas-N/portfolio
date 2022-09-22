@@ -133,7 +133,7 @@ html{
     animation: change 15s infinite step-start;
 }    
 .home{
-    background-image: url(/image/blur_pic.jpg);
+    background-image: url("blur_pic.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     height: 500px;
@@ -156,7 +156,7 @@ h1{
         background-image: url(bg1.jpg);
     }
     50%{
-        background-image: url(/image/bg10.jpg);
+        background-image: url(bg10.jpg);
     }
     100%{
         background-image: url(bg1.jpg);
